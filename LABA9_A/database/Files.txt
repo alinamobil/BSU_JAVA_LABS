@@ -1,0 +1,2 @@
+E:/Уник/прога 4 сем/N/LABA9_A/database/StringInput.txt
+E:/Уник/прога 4 сем/N/LABA9_A/database/StringOutput.txt
